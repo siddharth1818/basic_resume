@@ -1,2 +1,2 @@
 # basic_resume
-create bacic template
+create basic template
