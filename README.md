@@ -1,2 +1,2 @@
-# basic_resume
+# my_html_pages
 create basic template
