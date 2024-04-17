@@ -7,4 +7,5 @@ This project demonstrates how to manipulate a `<div>` element using the DOM.
 1. Clone this repository to your local machine.
 2. Open the `dom.html` file in a web browser.
 
-Alternatively, you can view the live version of the project [https://siddharth1818.github.io/my_html_pages/javascript/domManipulation/dom.html](link_to_live_version).
+Alternatively, you can view the live version of the project [here](https://siddharth1818.github.io/my_html_pages/javascript/domManipulation/dom.html).
+
